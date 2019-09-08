@@ -1,0 +1,41 @@
+
+footer, a,p {
+    display: inline-block;
+}  
+header,h1,img {
+    display: inline-block;
+}
+h2,h3{
+    display:inline-block;
+}
+img {
+    padding-left: 7em;
+    margin-top:2em;
+    vertical-align:bottom;
+}
+footer p {
+    padding-left: 11em;
+}
+footer {
+    width:44%;
+    background-color: #d1cbcb;
+}
+footer a {
+    margin-left: 2em;
+}
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    margin-left:1em;
+}
+.main p {
+    font-family: 'Alfa Slab One', cursive;
+    margin-left:2em;
+}
+.main h2{
+    color: #a39999;
+    margin-left: 1em;
+}
+.main h3{
+    color:#d1cbcb;
+}
+/* box-shadow */
